@@ -1,0 +1,10 @@
+the gollowing files will not be pushed:
+
+	# >package-lock.json.
+package-lock.json
+
+	# >package.json
+package.json
+
+	# >.env
+.env
